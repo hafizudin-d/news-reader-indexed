@@ -1,3 +1,4 @@
+//HELLO WORLD
 document.addEventListener("DOMContentLoaded", function() {
     // Activate sidebar nav
     var elems = document.querySelectorAll(".sidenav");
